@@ -1,0 +1,13 @@
+[
+  {
+    "type": "MOD_INFO",
+    "ident": "Firearm_Rechamber",
+    "name": "Rechambered Handmade Revolver and Pepperbox",
+    "authors": [ "Hillanoko" ],
+    "maintainers": [ "Hillanoko" ],
+    "description": "Dev Test Mod 01.",
+    "category": "items",
+    "dependencies": [ "dda" ],
+    "obsolete": false
+  }
+]

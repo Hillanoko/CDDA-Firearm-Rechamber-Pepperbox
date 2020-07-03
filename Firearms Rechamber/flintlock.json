@@ -1,0 +1,35 @@
+[
+     {
+    "id": "PPR",
+    "looks_like": "sw_619",
+    "type": "GUN",
+    "name": { "str": "Pepperbox Revolver" },
+    "description": "A multiple barrel repeating Firearm invented in the early 19th century. This one being of the flintlock variety with 6 barrels you load with shot and a revolving Mechanism.",
+    "weight": "1750 g",
+    "volume": "750 ml",
+    "price": 45000,
+    "to_hit": -2,
+    "bashing": 8,
+    "material": [ "iron", "wood" ],
+    "symbol": "(",
+    "color": "brown",
+    "ammo": "flintlock",
+    "skill": "pistol",
+    "ranged_damage": 0,
+	"range": 2,
+    "dispersion": 720,
+    "durability": 6,
+    "blackpowder_tolerance": 96,
+    "clip_size": 6,
+    "reload": 560,
+    "valid_mod_locations": [
+      [ "accessories", 1 ],
+      [ "grip mount", 1 ],
+      [ "rail mount", 1 ],
+      [ "sights mount", 1 ],
+      [ "stock mount", 1 ],
+      [ "underbarrel mount", 1 ]
+    ],
+    "flags": [ "RELOAD_ONE", "NEVER_JAMS" ]
+  }
+]

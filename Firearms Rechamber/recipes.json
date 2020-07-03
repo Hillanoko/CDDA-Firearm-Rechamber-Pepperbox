@@ -1,0 +1,118 @@
+[
+  {
+    "type": "recipe",
+    "result": "surv_six_shooter22",
+    "category": "CC_WEAPON",
+    "subcategory": "CSC_WEAPON_RANGED",
+    "skill_used": "mechanics",
+    "skills_required": [ [ "gun", 3 ] ],
+    "difficulty": 4,
+    "time": "1 h 40 m",
+    "autolearn": true,
+    "book_learn": [ [ "manual_pistol", 3 ] ],
+    "qualities": [ { "id": "SAW_M_FINE", "level": 1 }, { "id": "GLARE", "level": 2 } ],
+    "tools": [
+      [
+        [ "oxy_torch", 6 ],
+        [ "welder", 30 ],
+        [ "welder_crude", 45 ],
+        [ "toolset", 45 ],
+        [ "small_repairkit", 150 ],
+        [ "large_repairkit", 30 ]
+      ]
+    ],
+    "components": [ [ [ "pipe", 1 ] ], [ [ "spring", 1 ] ], [ [ "steel_chunk", 2 ] ], [ [ "scrap", 2 ] ] ]
+  },
+    {
+    "type": "recipe",
+    "result": "surv_six_shooter38",
+    "category": "CC_WEAPON",
+    "subcategory": "CSC_WEAPON_RANGED",
+    "skill_used": "mechanics",
+    "skills_required": [ [ "gun", 3 ] ],
+    "difficulty": 4,
+    "time": "1 h 20 m",
+    "autolearn": true,
+    "book_learn": [ [ "manual_pistol", 3 ] ],
+    "qualities": [ { "id": "SAW_M_FINE", "level": 1 }, { "id": "GLARE", "level": 2 } ],
+    "tools": [
+      [
+        [ "oxy_torch", 6 ],
+        [ "welder", 30 ],
+        [ "welder_crude", 45 ],
+        [ "toolset", 45 ],
+        [ "small_repairkit", 150 ],
+        [ "large_repairkit", 30 ]
+      ]
+    ],
+    "components": [ [ [ "pipe", 1 ] ], [ [ "spring", 1 ] ], [ [ "steel_chunk", 2 ] ], [ [ "scrap", 2 ] ] ]
+  },
+    {
+    "type": "recipe",
+    "result": "heavy_six_shooter44",
+    "category": "CC_WEAPON",
+    "subcategory": "CSC_WEAPON_RANGED",
+    "skill_used": "fabrication",
+    "skills_required": [ [ "gun", 4 ] ],
+    "difficulty": 9,
+    "time": "3 h 30 m",
+    "autolearn": false,
+    "book_learn": [ [ "manual_pistol", 3 ] ],
+    "qualities": [
+	  [
+        { "id": "SAW_M_FINE", "level": 1 },
+        { "id": "SCREW_FINE", "level": 1 },
+        { "id": "WRENCH", "level": 1 }
+	  ]
+	],
+    "components": [ [ [ "pipe", 2 ] ], [ [ "spring", 2 ] ], [ [ "steel_chunk", 6 ] ], [ [ "scrap", 2 ] ] ]
+  },
+    {
+    "type": "recipe",
+    "result": "surv_six_shooter357",
+    "category": "CC_WEAPON",
+    "subcategory": "CSC_WEAPON_RANGED",
+    "skill_used": "mechanics",
+    "skills_required": [ [ "gun", 3 ] ],
+    "difficulty": 4,
+    "time": "2 h 10 m",
+    "autolearn": true,
+    "book_learn": [ [ "manual_pistol", 3 ] ],
+    "qualities": [ { "id": "SAW_M_FINE", "level": 1 }, { "id": "GLARE", "level": 2 } ],
+    "tools": [
+      [
+        [ "oxy_torch", 6 ],
+        [ "welder", 30 ],
+        [ "welder_crude", 45 ],
+        [ "toolset", 45 ],
+        [ "small_repairkit", 150 ],
+        [ "large_repairkit", 30 ]
+      ]
+    ],
+    "components": [ [ [ "pipe", 1 ] ], [ [ "spring", 1 ] ], [ [ "steel_chunk", 2 ] ], [ [ "scrap", 2 ] ] ]
+  },
+   {
+    "type": "recipe",
+    "result": "PPR",
+    "category": "CC_WEAPON",
+    "subcategory": "CSC_WEAPON_RANGED",
+    "skill_used": "mechanics",
+    "skills_required": [ [ "gun", 4 ] ],
+    "difficulty": 4,
+    "time": "5 h",
+    "autolearn": true,
+    "book_learn": [ [ "manual_pistol", 5 ] ],
+	"qualities": [ { "id": "SAW_M_FINE", "level": 1 } ],
+	"tools": [
+      [
+        [ "oxy_torch", 6 ],
+        [ "welder", 30 ],
+        [ "welder_crude", 45 ],
+        [ "toolset", 45 ],
+        [ "small_repairkit", 150 ],
+        [ "large_repairkit", 30 ]
+      ]
+    ],
+    "components": [ [ [ "pipe", 3 ] ], [ [ "scrap", 2 ] ] , [ [ "sharp_rock", 1 ] ] ]
+  }
+]

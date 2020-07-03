@@ -1,0 +1,39 @@
+[
+     {
+    "id": "heavy_six_shooter44",
+    "looks_like": "sw_619",
+    "type": "GUN",
+    "reload_noise_volume": 10,
+    "name": { "str": "handmade .44 revolver" },
+    "description": "A homemade 6-shot heavy revolver.  While it's not as good as the pre-Cataclysm weapons of its calibre, this gun still packs a mean punch.",
+    "weight": "1750 g",
+    "volume": "750 ml",
+    "price": 45000,
+    "to_hit": -2,
+    "bashing": 9,
+    "material": [ "steel" ],
+    "symbol": "(",
+    "color": "dark_gray",
+    "ammo": "44",
+    "skill": "pistol",
+    "ranged_damage": -2,
+    "dispersion": 600,
+    "durability": 6,
+    "blackpowder_tolerance": 60,
+    "loudness": 28,
+    "clip_size": 6,
+    "reload": 230,
+    "valid_mod_locations": [
+      [ "accessories", 2 ],
+      [ "barrel", 1 ],
+      [ "bore", 1 ],
+      [ "grip", 1 ],
+      [ "sights", 1 ],
+      [ "stock", 1 ],
+      [ "underbarrel", 1 ],
+      [ "rail mount", 1 ]
+    ],
+    "faults": [ "fault_gun_blackpowder", "fault_gun_dirt" ],
+    "flags": [ "RELOAD_ONE", "NEVER_JAMS", "RELOAD_EJECT" ]
+  }
+]
